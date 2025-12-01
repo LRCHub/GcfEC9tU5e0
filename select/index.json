@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ジ・アンノウン",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T06:26:44.820925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Unknown",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_The_Unknown_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The Unknown Guest",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_02_The_Unknown_Guest_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The Unknown",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_03_The_Unknown_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The Unknown",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_04_The_Unknown_Imagine_Dragons.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The Unknown",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_05_The_Unknown_Imagine_Dragons.txt"
+    }
+  ]
+}
